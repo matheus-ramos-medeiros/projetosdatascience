@@ -20,7 +20,7 @@ Cursando Estatística, acostumado a trabalhar em ambiente com boa comunicação,
 * [Medium](https://medium.com/@matheusramosmedeiros)
 
 
-## Projetos:
+## Projetos e Artigos:
 Veja no meu blog pessoal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
